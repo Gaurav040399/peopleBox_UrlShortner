@@ -1,6 +1,6 @@
 const shortenbtn = document.getElementById("btn");
 
-let url = "https://ga-us.onrender.com";
+let url = "https://peoplebox.onrender.com";
 // let url = "http://localhost:7070"
 
 shortenbtn.addEventListener("click", () => {

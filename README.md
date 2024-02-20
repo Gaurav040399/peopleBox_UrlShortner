@@ -4,6 +4,10 @@
 This repository contains the backend and frontend code for a URL shortener application. 
 The backend provides functionalities for user authentication, URL shortening, and redirection.
 
+### Deployed Link
+ [Backend](https://peoplebox.onrender.com) 
+ [Frontend](https://peopleboxurl.netlify.app/)
+ 
 ## Backend
 
 ### Initialization

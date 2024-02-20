@@ -5,7 +5,7 @@ const signupBtn = document.getElementById('signup');
 const signupform = document.getElementById("signupbtn");
 const loginform = document.getElementById("loginbtn");
 
-let url = "https://ga-us.onrender.com"
+let url = "https://peoplebox.onrender.com"
 // let url = "http://localhost:7070"
 
 signupform.addEventListener("click",()=>{
